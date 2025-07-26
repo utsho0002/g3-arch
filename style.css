@@ -168,6 +168,34 @@ button:hover{
 a:hover{
     color: rgba(255, 143, 14, 0.628);
 }
+.love-ft{
+    display: flex;
+    gap: 140px;
+}
+.love-ft div1{
+   max-width: 586px;
+}
+.love-ft-h{
+    font-size: 2.5rem;
+    border-left: 5px solid rgba(255, 144, 14, 1);
+    padding-left: 21px;
+}
+.cards{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.121);
+    border-radius: 8px;
+}
+#btn-span1{
+    font-size: 4.02rem;
+}
+#btn-span2{
+    font-weight: normal;
+}
+.btn4{
+    padding: 35px;
+    margin-top: -100px;
+    margin-left: -100px;
+}
 /* Medium device */
 @media (576px<width<=992px) {
     .features{
