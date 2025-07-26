@@ -138,7 +138,7 @@
 .sponsor-img{
     display: grid;
     grid-template-columns: repeat(5,1fr);
-    gap: 100px;
+    gap: 90px;
 }
 .sponsor-img img{
     filter: grayscale(100%);
